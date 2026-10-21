@@ -78,7 +78,6 @@ A tool for generating exam questions from uploaded PowerPoint files using the Op
 
 </details>
 
-<br/>
 
 </details>
 
