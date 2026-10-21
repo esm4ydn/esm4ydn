@@ -80,14 +80,6 @@ A tool for generating exam questions from uploaded PowerPoint files using the Op
 
 <br/>
 
-<div align="center">
-
-[![GitHub Achievements](https://img.shields.io/badge/View_my_GitHub_Achievements-E6DDF5?style=flat-square&logo=github&logoColor=333333)](https://github.com/esm4ydn?tab=achievements)
-
-<sub>GitHub awards achievement badges automatically when their requirements are met. This link shows my real earned badges, without adding unearned ones.</sub>
-
-</div>
-
 </details>
 
 <details>
