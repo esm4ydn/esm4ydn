@@ -78,6 +78,38 @@ A tool for generating exam questions from uploaded PowerPoint files using the Op
 
 </details>
 
+
+
+<details>
+<summary><b>Pastel contribution garden · Watch the snake</b></summary>
+
+<br/>
+
+<div align="center">
+
+![Animated pastel contribution snake](https://raw.githubusercontent.com/esm4ydn/esm4ydn/output/github-snake.svg)
+
+<sub>The snake follows my actual GitHub contributions. The animation is generated automatically by GitHub Actions.</sub>
+
+</div>
+
+</details>
+
+<details>
+<summary><b>Achievements · View badges</b></summary>
+
+<br/>
+
+<div align="center">
+
+[![GitHub Achievements](https://img.shields.io/badge/View_my_GitHub_Achievements-E6DDF5?style=flat-square&logo=github&logoColor=333333)](https://github.com/esm4ydn?tab=achievements)
+
+<sub>GitHub awards achievement badges automatically when their requirements are met. This link shows my real earned badges, without adding unearned ones.</sub>
+
+</div>
+
+</details>
+
 <details>
 <summary><b>GitHub activity · Read more</b></summary>
 
@@ -92,3 +124,4 @@ A tool for generating exam questions from uploaded PowerPoint files using the Op
 <sub>Language percentages reflect public repository code, not overall proficiency. This chart is provided by a third-party service and may occasionally be unavailable.</sub>
 
 </details>
+
