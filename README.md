@@ -79,21 +79,11 @@ A tool for generating exam questions from uploaded PowerPoint files using the Op
 </details>
 
 
-
-<details>
-<summary><b>Pastel contribution garden · Watch the snake</b></summary>
-
-<br/>
+<h3 align="center">My Contribution Garden</h3>
 
 <div align="center">
-
-![Animated pastel contribution snake](https://raw.githubusercontent.com/esm4ydn/esm4ydn/output/github-snake.svg)
-
-<sub>The snake follows my actual GitHub contributions. The animation is generated automatically by GitHub Actions.</sub>
-
+  <img src="https://raw.githubusercontent.com/esm4ydn/esm4ydn/output/github-snake.svg" alt="Pastel contribution snake animation" width="100%" />
 </div>
-
-</details>
 
 <details>
 <summary><b>Achievements · View badges</b></summary>
